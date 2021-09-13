@@ -1,8 +1,9 @@
 # tinder-clone todo list
 
 * [x] cleanup project
-* [ ] build header
-* [ ] tinder card
+* [x] build header
+* [x] setup react router
+* [x] tinder card
 * [ ] buttons below tinder cards
 
 * [ ] chat screen
