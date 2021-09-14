@@ -4,7 +4,7 @@
 * [x] build header
 * [x] setup react router
 * [x] tinder card
-* [ ] buttons below tinder cards
+* [x] buttons below tinder cards
 
 * [ ] chat screen
  * [ ] individual chat screen
