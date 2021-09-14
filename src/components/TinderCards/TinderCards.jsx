@@ -18,8 +18,6 @@ const TinderCards = () => {
       unsubscribe();
     };
   }, []);
-  
-  console.log(people);
 
   return (
     <div className="tinderCards">
